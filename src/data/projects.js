@@ -19,7 +19,7 @@ export const projects = [
       "MongoDb",
       "API",
     ],
-    image: "/public/assets/services 1.png",
+    image: "/public/assets/services 1.jpeg",
     link: "https://food-del-ten-blue.vercel.app",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     description:
       "A modern space to share ideas, stories, knowledge, and experiences through engaging and beautifully presented content.",
     technologies: ["Next.js", "Tailwind CSS", "Framer Motion", "API"],
-    image: "/public/assets/services 2.png",
+    image: "/public/assets/services 2.jpeg",
     link: "https://next-blog-site-rose.vercel.app/",
   },
   {
@@ -38,7 +38,7 @@ export const projects = [
       "Showcase delicious dishes, explore the menu, discover the ambiance, and make every dining experience memorable.",
     category: "Business  website",
     technologies: ["React", "Html", "CSS", "Lenis Scroll"],
-    image: "/public/assets/services 3.png",
+    image: "/public/assets/services 3.jpeg",
     link: "https://xyz-resturant.vercel.app/",
   },
   {
@@ -48,7 +48,7 @@ export const projects = [
       "Escape to luxury and relaxation with stunning rooms, beautiful surroundings, premium amenities, and unforgettable experiences.",
     category: "Startup",
     technologies: ["React", "html", "CSS", "Lucide Icons", "Google-map-API"],
-    image: "/public/assets/services 4.png",
+    image: "/public/assets/services 4.jpeg",
     link: "https://abc-resort.vercel.app/",
   },
   {
@@ -58,7 +58,7 @@ export const projects = [
       "A professional digital portfolio that highlights skills, projects, achievements, and creativity in a powerful way.",
     category: "Portfolio",
     technologies: ["React", "Tailwind CSS", "Vite", "Emailjs"],
-    image: "/public/assets/services 5.png",
+    image: "/public/assets/services 5.jpeg",
     link: "https://yeshthakur.me/",
   },
   {
@@ -68,7 +68,7 @@ export const projects = [
       "Experience the perfect blend of rich coffee, delicious bites, cozy vibes, and a warm café atmosphere.",
     category: "Ui/Ux",
     technologies: ["React", "Tailwind CSS", "WhatsAap-Integrated"],
-    image: "/public/assets/services 6.png",
+    image: "/public/assets/services 6.jpeg",
     link: "https://cafe-hideout-five.vercel.app/",
   },
   {
@@ -83,7 +83,7 @@ export const projects = [
       "Lucide Icons",
       "payment-integrated",
     ],
-    image: "/public/assets/services 7.png",
+    image: "/public/assets/services 7.jpeg",
     link: "https://notes-app-alpha-opal.vercel.app/",
   },
   {
@@ -93,7 +93,7 @@ export const projects = [
       "Explore a delightful collection of traditional and modern sweets, crafted with love to make every celebration sweeter.",
     category: "Landing Page",
     technologies: ["React", "Tailwind CSS", "Vite"],
-    image: "/public/assets/services 8.png",
+    image: "/public/assets/services 8.jpeg",
     link: "",
   },
   {
@@ -103,7 +103,7 @@ export const projects = [
       "A modern online shopping platform where customers can explore products, discover great deals, add items to their cart, and enjoy a seamless and secure shopping experience.",
     category: "Web Application",
     technologies: ["React", "Tailwind CSS", "REST API"],
-    image: "/public/assets/services 9.png",
+    image: "/public/assets/services 9.jpeg",
     link: "",
   },
   {
@@ -121,7 +121,7 @@ export const projects = [
       "Figma",
       "Tailwind CSS",
     ],
-    image: "/public/assets/services 10.png",
+    image: "/public/assets/services 10.jpeg",
     link: "",
   },
 ];
