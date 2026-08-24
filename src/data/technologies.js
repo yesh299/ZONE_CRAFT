@@ -1,0 +1,80 @@
+export const technologies = [
+  {
+    name: "HTML",
+    category: "Frontend",
+    description: "Semantic HTML5 markup for structure, accessibility, and SEO.",
+    badge: "Structure",
+  },
+  {
+    name: "CSS",
+    category: "Frontend",
+    description: "Modern styling, CSS variables, and fluid responsive design.",
+    badge: "Styling",
+  },
+  {
+    name: "JavaScript",
+    category: "Frontend",
+    description: "Interactive features, client-side logic, and modern ES6+ APIs.",
+    badge: "Core Logic",
+  },
+  {
+    name: "React.js",
+    category: "Frontend",
+    description: "Component-driven user interfaces with high reusability.",
+    badge: "UI Library",
+  },
+  {
+    name: "Next.js",
+    category: "Frontend",
+    description: "Server-side rendering, static site generation, and SEO performance.",
+    badge: "Framework",
+  },
+  {
+    name: "TypeScript",
+    category: "Languages",
+    description: "Static typing for robust, error-free, and scalable codebases.",
+    badge: "Type Safety",
+  },
+  {
+    name: "Tailwind CSS",
+    category: "Frontend",
+    description: "Utility-first design system for ultra-fast and consistent UI styling.",
+    badge: "Design System",
+  },
+  {
+    name: "Node.js",
+    category: "Backend",
+    description: "Fast, scalable server-side JavaScript runtime environment.",
+    badge: "Runtime",
+  },
+  {
+    name: "Express.js",
+    category: "Backend",
+    description: "Minimal and flexible web application framework for REST APIs.",
+    badge: "Backend API",
+  },
+  {
+    name: "MongoDB",
+    category: "Database",
+    description: "Flexible NoSQL database for modern data storage and retrieval.",
+    badge: "NoSQL DB",
+  },
+  {
+    name: "Git",
+    category: "Tools & DevOps",
+    description: "Distributed version control system for tracking code changes.",
+    badge: "Version Control",
+  },
+  {
+    name: "GitHub",
+    category: "Tools & DevOps",
+    description: "Collaborative code hosting, pull requests, and CI/CD pipelines.",
+    badge: "Collaboration",
+  },
+  {
+    name: "Vercel",
+    category: "Tools & DevOps",
+    description: "Cloud platform for instantaneous frontend deployments and edge hosting.",
+    badge: "Edge Hosting",
+  },
+];
